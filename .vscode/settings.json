@@ -1,0 +1,8 @@
+{
+    "vscodeGoogleTranslate.preferredLanguage": "Portuguese",
+    "python.analysis.extraPaths": [
+        "./Cadastro/banco_de_dados",
+        "./Cadastro/validacoes",
+        "./Cadastro/interface"
+    ]
+}
